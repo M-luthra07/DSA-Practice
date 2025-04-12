@@ -7,3 +7,6 @@ Each child i has a greed factor of g[i], which is the minimum size of a cookie t
 
 Q-2  Lemonade Change Link- https://leetcode.com/problems/lemonade-change/description/
 Problem Statement: Given an array representing a queue of customers and the value of bills they hold, determine if it is possible to provide correct change to each customer. Customers can only pay with 5$, 10$ or 20$ bills and we initially do not have any change at hand. Return true, if it is possible to provide correct change for each customer otherwise return false.
+
+Q-3  Shortest Job First  Link-
+Problem Statement: Given a list of job durations representing the time it takes to complete each job. Implement the Shortest Job First algorithm to find the average waiting time for these jobs.
