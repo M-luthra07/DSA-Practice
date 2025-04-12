@@ -10,3 +10,6 @@ Problem Statement: Given an array representing a queue of customers and the valu
 
 Q-3  Shortest Job First  Link-
 Problem Statement: Given a list of job durations representing the time it takes to complete each job. Implement the Shortest Job First algorithm to find the average waiting time for these jobs.
+
+Q-4  Jump Game - I  Link-https://leetcode.com/problems/jump-game/description/
+Problem Statement: Given an array where each element represents the maximum number of steps you can jump forward from that element, return true if we can reach the last index starting from the first index. Otherwise, return false.
